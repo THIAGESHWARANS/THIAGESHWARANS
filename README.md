@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THIAGESHWARANS
 - 👀 I’m currently working on web development.
-- 🌱 I’m currently learning java,javascript,css.<img src="<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">" alt="GitHub">
+- 🌱 I’m currently learning java,javascript,css.<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
 
 - ## 🔧 Skills
 
