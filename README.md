@@ -12,6 +12,16 @@
 - 📫 How to reach me **sthiageshwaran@gmail.com**
 
 - ⚡ Fun fact **If you take action on what you think, you will be successful.**
+ ## 🔧 Skills
+
+- **Blender:** Experienced in 3D modeling, animation, and rendering with Blender.
+- **Poster Design:** Proficient in creating eye-catching posters for various purposes.
+- **Video Editing:** Skilled in video editing, from cutting and splicing to adding effects and transitions.
+## 📚 Latest Blog Posts
+
+- **Getting started with Git and Github: A Comprehensive Step-by-Step Guide**:
+  - https://medium.com/@sthiageshwaran/getting-started-with-git-and-github-a-comprehensive-step-by-step-guide-0a141ad94283
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
